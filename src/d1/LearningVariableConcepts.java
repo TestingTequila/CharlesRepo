@@ -3,6 +3,8 @@ package d1;
 public class LearningVariableConcepts {
     public static void main(String[] args) {
 
+        //datatype nameOfVariable= value
+
         // I want to add two numbers 10 & 12
 
         int x = 10;
