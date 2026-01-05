@@ -43,7 +43,6 @@ public class PrintingAnythingInJava {
 
         String t3 = "I am learning Java";
 
-
         String s1 ="Today, it's Wednesday";
 
         System.out.println(n2);
